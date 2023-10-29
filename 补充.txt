@@ -11,4 +11,4 @@ LoginData.json
 已注册数据json
 RegisterData.json
 
-注:json可使用记事本打开,esc可退出
+注:json可使用记事本打开
