@@ -1,0 +1,14 @@
+云盘中还有开发存在的重大问题及对应优化
+脚本及Visio图可在github下载（脚本中存在自定义类库JsonMgr）
+
+--补充--
+json存储读取路径
+C:\Users\Administrator\AppData\LocalLow\DefaultCompany\UGUI_Demo
+
+登录数据json(自动登录)
+LoginData.json
+
+已注册数据json
+RegisterData.json
+
+注:json可使用记事本打开,esc可退出
