@@ -12,3 +12,5 @@ LoginData.json
 RegisterData.json
 
 注:json可使用记事本打开
+
+示例视频:https://www.aliyundrive.com/s/1gJoAGWXCT7
